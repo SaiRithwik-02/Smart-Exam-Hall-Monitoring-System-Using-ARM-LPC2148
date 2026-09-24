@@ -88,7 +88,9 @@ When the system is powered ON, the LPC2148 initializes:
 * External interrupts
 
 ---
-
+### Block Diagram
+![Smart Exam Hall Monitoring System Using ARM LPC2148](project_Images/Mini_Proj_Block_diagram.jpg)
+---
 ### 2. Normal Monitoring Mode
 
 During normal operation, the LCD continuously displays:
@@ -437,7 +439,8 @@ Verify:
 | Log request              | Exam log information displayed            |
 
 ---
-
+### Circuit Connections
+![Smart Exam Hall Monitoring System Using ARM LPC2148](project_Images/Mini_Project_Design.jpg)
 ## 🎓 Learning Outcomes
 
 Through this project, I gained practical experience in **ARM7 LPC2148 programming, Embedded C, peripheral interfacing, ADC, RTC, GPIO, external interrupts, LCD/keypad interfacing, multiplexed 7-segment displays, and embedded system integration**.
